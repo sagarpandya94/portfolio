@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b9599387.css",
-    "main.js": "/portfolio/static/js/main.ab1c1a52.js",
-    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
+    "main.css": "/portfolio/static/css/main.03e0b0dd.css",
+    "main.js": "/portfolio/static/js/main.bae1049a.js",
     "static/media/displaypicture.png": "/portfolio/static/media/displaypicture.1ae5a9e567c8b9ddcb85.png",
+    "static/media/scale-logo.png": "/portfolio/static/media/scale-logo.1316b35ff4d21a93381c.png",
+    "static/media/nirma-logo.jpg": "/portfolio/static/media/nirma-logo.f208a3c6e20d1184044c.jpg",
+    "static/media/jenkins-logo.png": "/portfolio/static/media/jenkins-logo.cfc32eb3e5695f07917b.png",
+    "static/media/azure-logo.jpg": "/portfolio/static/media/azure-logo.3378860b89c01bd4c023.jpg",
+    "static/media/sfsu-logo.jpg": "/portfolio/static/media/sfsu-logo.16b3fb52bc3bc5e002d3.jpg",
     "index.html": "/portfolio/index.html",
-    "main.b9599387.css.map": "/portfolio/static/css/main.b9599387.css.map",
-    "main.ab1c1a52.js.map": "/portfolio/static/js/main.ab1c1a52.js.map",
-    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
+    "main.03e0b0dd.css.map": "/portfolio/static/css/main.03e0b0dd.css.map",
+    "main.bae1049a.js.map": "/portfolio/static/js/main.bae1049a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9599387.css",
-    "static/js/main.ab1c1a52.js"
+    "static/css/main.03e0b0dd.css",
+    "static/js/main.bae1049a.js"
   ]
 }
